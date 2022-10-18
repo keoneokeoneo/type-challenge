@@ -14,5 +14,6 @@
 - [X] [first of array](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.md)
 - [X] [length of tuple](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md)
 - [X] [exclude](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
+- [X] [awaited](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md)
 ### medium
 - [X] [deep-readonly](https://github.com/type-challenges/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.md)
