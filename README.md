@@ -16,5 +16,6 @@
 - [X] [exclude](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
 - [X] [awaited](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md)
 - [X] [if](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md)
+- [x] [concat](https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.md)
 ### medium
 - [X] [deep-readonly](https://github.com/type-challenges/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.md)
